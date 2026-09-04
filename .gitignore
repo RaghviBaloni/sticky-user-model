@@ -1,0 +1,18 @@
+# Local working notes and agent config -- deliberately not tracked
+CLAUDE.md
+timelog.md
+notes/metrics.md
+
+# Python build artifacts
+__pycache__/
+*.py[cod]
+
+# Activation cache: data/cache is a symlink to /media/data/baloni/sticky-user-model/cache
+# (~1.2 GB, machine-specific absolute path). Regenerate with src/06_extract_activations.py.
+data/cache
+*.pt
+*.parquet
+
+# Scratch
+*.log
+.ipynb_checkpoints/

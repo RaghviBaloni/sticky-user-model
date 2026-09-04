@@ -1,0 +1,10 @@
+{
+  "tfidf_3way": 0.8194444444444444,
+  "tfidf_SH": 0.9166666666666666,
+  "sentiment_3way": 0.9722222222222222,
+  "sentiment_SH": 0.9791666666666666,
+  "probe_best_3way": 1.0,
+  "gap": 0.18055555555555558,
+  "cv": "leave-one-(topic,phrasing)-out",
+  "n": 72
+}

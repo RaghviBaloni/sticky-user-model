@@ -1,0 +1,15 @@
+torch
+transformers
+accelerate
+nnsight
+scikit-learn
+numpy
+scipy
+pandas
+pyarrow
+matplotlib
+seaborn
+networkx
+datasets
+textstat
+tqdm

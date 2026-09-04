@@ -1,0 +1,7 @@
+condition,n,a_k_tokens,valence,hedging_count,distress_lexicon_count,source
+A,20,422.15,0.2892003863118589,1.2,1.05,stage3b_text_mediation.csv
+B @0.25x,20,436.2,0.2463703805347904,0.8,1.65,stage3b_text_mediation.csv
+B @0.5x,20,439.3,0.0433334363857284,1.1,3.15,stage3b_text_mediation.csv
+C @0.5x,20,426.4,0.4750710843247361,1.35,0.55,stage3b_text_mediation.csv
+D @0.5x,20,424.45,0.4352365091210231,1.0,1.1,stage3b_text_mediation.csv
+E (length-matched),20,415.3,,,,tokens from stage3b_E_lengthfixed.csv; valence/hedging/distress NOT COMPUTED for the length-matched passage
