@@ -10,7 +10,6 @@ MATS 10.0 application task — Neel Nanda stream.
 |---|---|
 | `ROADMAP.md` | Full research spec: hypotheses, execution plan, appendices A–D |
 | `CLAUDE.md` | Rules for the coding agent (read automatically by Claude Code) |
-| `metrics.md` | Pre-registered metrics. **Lock before Stage 3.** |
 | `notes/positioning.md` | Literature positioning (Stage 1 output) |
 | `notes/highlights.md` | Running results log |
 | `notes/red_team.md` | Self-criticism (Stage 5) |
